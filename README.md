@@ -31,7 +31,7 @@ international content.
 <img width="624" height="446" alt="PIE Chart" src="https://github.com/user-attachments/assets/7219eed9-38d0-4f9b-86d8-68c26f565d9f" />
 <img width="576" height="446" alt="Movies vs TV show persantage" src="https://github.com/user-attachments/assets/f90f11b5-86f8-4584-b010-2456b8e93c80" />
 
-Insight: Netflix is movie-dominant, with about 5377 movies and 30% TV shows.
+Insight: Netflix is movie-dominant, with about 70% movies and 30% TV shows.
 
 TV shows are increasing over time, but movies still form the bulk of Netflix’s catalog.
 
