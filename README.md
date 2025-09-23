@@ -1,5 +1,6 @@
 # Netflix_Data_Analysis_Using_Python
 Exploratory Data Analysis (EDA) on Netflix dataset using Python. Cleaned and prepared data (handled missing values, duplicates, special characters). Analyzed Movies vs TV Shows, release trends, ratings, and top content-producing countries. Visualized insights with Matplotlib &amp; Seaborn to highlight patterns in Netflix’s library.
+<img width="650" height="324" alt="Pandas Numpy Instllation" src="https://github.com/user-attachments/assets/b31f5339-8349-4217-9b33-0e2b0b553a89" />
 <img width="647" height="353" alt="Head" src="https://github.com/user-attachments/assets/fb1a3c90-d6ed-484d-8190-f003c4aa84fd" />
 <img width="576" height="324" alt="Remove Missing Value" src="https://github.com/user-attachments/assets/4b1b75d9-134e-462f-9a1a-3317ac1715d8" />
 <img width="624" height="446" alt="Filled Missing value" src="https://github.com/user-attachments/assets/216dd4ed-ab5c-4c2c-b683-816ddb2b68cd" />
