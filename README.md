@@ -70,7 +70,7 @@ Exploratory Data Analysis (EDA) on Netflix dataset using Python. Cleaned and pre
 # Data Set Head
 <img width="647" height="353" alt="Head" src="https://github.com/user-attachments/assets/fb1a3c90-d6ed-484d-8190-f003c4aa84fd" />
 
-# Remove Missing Value
+# Fill Missing Value
 
 <img width="576" height="324" alt="Remove Missing Value" src="https://github.com/user-attachments/assets/4b1b75d9-134e-462f-9a1a-3317ac1715d8" />
 <img width="624" height="446" alt="Remove Missing Value" src="https://github.com/user-attachments/assets/216dd4ed-ab5c-4c2c-b683-816ddb2b68cd" />
