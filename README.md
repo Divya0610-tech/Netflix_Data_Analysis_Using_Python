@@ -47,16 +47,16 @@ Ratings distribution shows majority content is for TV-MA (Mature Audience).
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/Netflix-Data-Analysis.git
-
+https://github.com/Divya0610-tech/Netflix_Data_Analysis_Using_Python.git
 
 Open Jupyter Notebook:
 
 jupyter notebook Netflix_EDA.ipynb
 
-📬 Connect With Me
+📬 Connect With Me on Linkedin
 
-linkedin
+www.linkedin.com/in/divya-patel-data-analyst
+
 
 it.divya6@gmail.com
 # Detailed Explination
