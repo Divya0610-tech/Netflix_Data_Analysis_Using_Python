@@ -81,7 +81,7 @@ multiple directors are involved, or for older regional content. Missing cast/cou
 
 international content.
 
-# Titel Normlaization
+# Remove Duplicate And Titel Column Normlaization
 
 <img width="624" height="446" alt="Titel Normlaization" src="https://github.com/user-attachments/assets/a0ab4360-be86-41f7-bb74-86f798f5bfe0" />
 <img width="576" height="446" alt="Titel head" src="https://github.com/user-attachments/assets/5967b977-5ae4-40c4-bd00-fd6fd95120df" />
